@@ -7,7 +7,7 @@
 
 ## Быстрый старт
 
-### 1. Установка PostgreSQL (Docker)
+1. Установка PostgreSQL (Docker)
 ```bash
 docker run --name postgres-task -e POSTGRES_PASSWORD=yourpassword -e POSTGRES_DB=JobDb -p 5432:5432 -d postgres
 ```
