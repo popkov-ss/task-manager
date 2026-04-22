@@ -39,12 +39,12 @@ Swagger UI: https://localhost:7090/swagger
 
 API Endpoints
 
-· GET /api/tasks — все задачи
-· GET /api/tasks/{id} — задача по ID
-· POST /api/tasks — создать задачу
-· PUT /api/tasks/{id} — обновить
-· DELETE /api/tasks/{id} — удалить
-· GET /api/tasks/type/{taskTypeId} — задачи по типу
+- GET /api/tasks — все задачи
+- GET /api/tasks/{id} — задача по ID
+- POST /api/tasks — создать задачу
+- PUT /api/tasks/{id} — обновить
+- DELETE /api/tasks/{id} — удалить
+- GET /api/tasks/type/{taskTypeId} — задачи по типу
 
 ## Описание архитектурных решений
 
